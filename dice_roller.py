@@ -1,3 +1,4 @@
+//dice roller
 import tkinter as tk
 import random
 def roll_dice():
